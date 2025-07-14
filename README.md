@@ -2,7 +2,7 @@
 
 My name is Sina, I'm a computer Engineer interested in all thing Pyrhon and Data Science.
 
-- 🔭 I’m currently working on Chatbots
+- 🔭 I’m currently working on Chatbots and MCP
 - 🌱 I’m currently learning AI
 - 💬 Check out for more in [here](https://www.linkedin.com/in/sina-rez/)
 - 📫 How to reach me: Rezaeii.sina.gh@gmail.com
