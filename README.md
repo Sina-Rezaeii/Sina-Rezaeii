@@ -1,24 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Sina
+Computer Engineer passionate about **Python**, **Data Science**, and **AI chatbots**.
 
-My name is Sina, I'm a computer Engineer interested in all thing Pyrhon and Data Science.
+### 🧰 Skills
+- **Languages**: Python, SQL  
+- **ML/AI**: scikit-learn, TensorFlow, Hugging Face, RAG (Retrieval-Augmented Generation)  
+- **Tools**: Docker, Git, GitHub Actions
 
-- 🔭 I’m currently working on Chatbots and MCP
-- 🌱 I’m currently learning AI
-- 💬 Check out for more in [here](https://www.linkedin.com/in/sina-rez/)
-- 📫 How to reach me: Rezaeii.sina.gh@gmail.com
+### ⚙️ Projects
+#### 🤖 Chatbot‑Final
+A multi-turn AI chatbot built with RAG techniques, deployed using Flask. Features:
+- Semantic search using vector embeddings  
+- Easy UI and scalable architecture  
 
+[View project →](link)
 
-<!--
-**Sina-Rezaeii/Sina-Rezaeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+…
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/sina-rez/) • [Email](mailto:Rezaeii.sina.gh@gmail.com)
