@@ -19,28 +19,26 @@ A multi-turn AI chatbot built with RAG techniques, deployed using Flask. Feature
 - [LinkedIn](https://www.linkedin.com/in/sina-rez/) • [Email](mailto:Rezaeii.sina.gh@gmail.com)
 گگ
 -->
-👋 Hi, I'm Sina — AI Developer
-I'm an AI developer focusing on chatbots, intelligent agents, and NLP.
-Currently looking for freelance opportunities to apply my skills in real-world projects.
 
-🛠️ Tech Stack
-Python, FastAPI, Docker
+## 👋 Hi, I'm Sina — AI Developer
 
-SQL, MongoDB
+I'm an AI developer focusing on **chatbots, intelligent agents, and NLP**.  
+Currently looking for **freelance opportunities** to apply my skills in real-world projects.
 
-NLP, Prompt Engineering
+### 🛠️ Tech Stack
+- Python, FastAPI, Docker  
+- SQL, MongoDB  
+- NLP, Prompt Engineering  
+- n8n, MCP (Automation)
 
-n8n, MCP (Automation)
+### 🧠 Learning & Building
+- AI Agents & LLM tools  
+- Custom chatbots & automations
 
-🧠 Learning & Building
-AI Agents & LLM tools
+### 🎓 About Me
+- BSc in Software Engineering  
+- Graduated top of class 🎓  
 
-Custom chatbots & automations
-
-🎓 About Me
-BSc in Software Engineering
-
-Graduated top of class 🎓
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/sina-rez/) • [Email](mailto:Rezaeii.sina.gh@gmail.com)
