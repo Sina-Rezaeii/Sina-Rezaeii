@@ -28,5 +28,5 @@ When I’m not behind a screen, I enjoy long-distance cycling (nearly 9 years of
 ---
 
 📫 **Contact**  
-Email: your_email@example.com  
-LinkedIn: https://www.linkedin.com/in/your-link
+Email: Rezaeii.sina.gh@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sina-rez/
