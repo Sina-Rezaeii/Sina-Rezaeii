@@ -1,46 +1,35 @@
-<!-- # 👋 Hi, I’m Sina
-Computer Engineer passionate about **Python**, **Data Science**, and **AI chatbots**.
+## Hi, I'm Sina 👋
 
-### 🧰 Skills
-- **Languages**: Python, SQL  
-- **ML/AI**: scikit-learn, TensorFlow, Hugging Face, RAG (Retrieval-Augmented Generation)  
-- **Tools**: Docker, Git, GitHub Actions
+I build practical AI stuff with Python — mostly NLP and RAG chatbots — and I like projects that feel “real”, not just demos.
 
-### ⚙️ Projects
-#### 🤖 Chatbot‑Final
-A multi-turn AI chatbot built with RAG techniques, deployed using Flask. Features:
-- Semantic search using vector embeddings  
-- Easy UI and scalable architecture 
+### What I mostly work on
+- AI applications with a focus on **NLP and RAG-based systems**
+- Backend development using **Python** (Flask / FastAPI)
+- Designing end-to-end pipelines (data → model → API → UI)
+- Hands-on projects that mix software with real systems (IoT, automation)
 
-[View project →](link)
+### Selected projects
+- **RAG-based AI Chatbot**  
+  A document-grounded chatbot built with retrieval + generation, focused on clean chunking, vector search, and reliable answers.
 
+- **Smart Attendance Management System**  
+  An IoT-based system using RFID and microcontrollers, connected to a web dashboard with real-time data synchronization.
 
-### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/sina-rez/) • [Email](mailto:Rezaeii.sina.gh@gmail.com)
-گگ
--->
-## 👋 Hi, I'm Sina — AI Developer
+- **3D Adventure Maze Game (Unity)**  
+  A game project developed to explore logic design, interaction systems, and real-time environments.
 
-I'm an AI developer focusing on **chatbots, intelligent agents, and NLP**.  
-Currently looking for **freelance opportunities** to apply my skills in real-world projects.
+### Technical background
+- **Languages:** Python, C++, SQL  
+- **AI / ML:** NLP, RAG pipelines, embeddings, vector databases  
+- **Backend:** Flask, FastAPI, REST APIs  
+- **Databases:** SQL-based systems  
+- **Other:** Git, basic DevOps concepts, system-level thinking
 
-### 🛠️ Tech Stack
-- Python, FastAPI, Docker  
-- SQL, MongoDB  
-- NLP, Prompt Engineering  
-- n8n, MCP (Automation)
+### Outside of coding
+When I’m not behind a screen, I enjoy long-distance cycling (nearly 9 years of experience), hiking, and exploring blockchain ecosystems — working with different networks, wallets, and crypto-based applications.
 
-### 🧠 Learning & Building
-- AI Agents & LLM tools  
-- Custom chatbots & automations
+---
 
-### 🎓 About Me
-- BSc in Software Engineering  
-- Graduated top of class 🎓  
-
-
-### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/sina-rez/) • [Email](mailto:Rezaeii.sina.gh@gmail.com)
-
-
-
+📫 **Contact**  
+Email: your_email@example.com  
+LinkedIn: https://www.linkedin.com/in/your-link
