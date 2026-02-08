@@ -15,9 +15,6 @@ I build practical AI stuff with Python — mostly NLP and RAG chatbots — and I
 - **Smart Attendance Management System**  
   An IoT-based system using RFID and microcontrollers, connected to a web dashboard with real-time data synchronization.
 
-- **3D Adventure Maze Game (Unity)**  
-  A game project developed to explore logic design, interaction systems, and real-time environments.
-
 ### Technical background
 - **Languages:** Python, C++, SQL  
 - **AI / ML:** NLP, RAG pipelines, embeddings, vector databases  
